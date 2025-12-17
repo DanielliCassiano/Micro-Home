@@ -1,0 +1,9 @@
+<Solution>
+  <Project Path="docker-compose.dcproj">
+    <Build />
+  </Project>
+  <Project Path="MicroHome.ApiGateway/MicroHome.ApiGateway.csproj" />
+  <Project Path="MicroHome.Catalogo.API/MicroHome.Catalogo.API.csproj" />
+  <Project Path="MicroHome.Pedidos.API/MicroHome.Pedidos.API.csproj" />
+  <Project Path="MicroHome.Shared/MicroHome.Shared.csproj" />
+</Solution>

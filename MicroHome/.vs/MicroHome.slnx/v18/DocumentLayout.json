@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Danielli\\source\\repos\\Micro-Home\\MicroHome\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|c:\\users\\danielli\\source\\repos\\micro-home\\microhome\\.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|solutionrelative:.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|c:\\users\\danielli\\source\\repos\\micro-home\\microhome\\docker-compose.yml||{06C066C6-04A2-4E5D-8202-439FD4234EF1}",
+      "RelativeMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|solutionrelative:docker-compose.yml||{06C066C6-04A2-4E5D-8202-439FD4234EF1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66704265-7B75-4FA3-8103-C0EA8DE7FB7E}|MicroHome.Pedidos.API\\MicroHome.Pedidos.API.csproj|c:\\users\\danielli\\source\\repos\\micro-home\\microhome\\microhome.pedidos.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{66704265-7B75-4FA3-8103-C0EA8DE7FB7E}|MicroHome.Pedidos.API\\MicroHome.Pedidos.API.csproj|solutionrelative:microhome.pedidos.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E7926C0-63A9-4AEF-8661-D62100B92484}|MicroHome.Catalogo.API\\MicroHome.Catalogo.API.csproj|c:\\users\\danielli\\source\\repos\\micro-home\\microhome\\microhome.catalogo.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3E7926C0-63A9-4AEF-8661-D62100B92484}|MicroHome.Catalogo.API\\MicroHome.Catalogo.API.csproj|solutionrelative:microhome.catalogo.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{264DCC11-2678-4711-8323-34D7BEE848F1}|MicroHome.ApiGateway\\MicroHome.ApiGateway.csproj|c:\\users\\danielli\\source\\repos\\micro-home\\microhome\\microhome.apigateway\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{264DCC11-2678-4711-8323-34D7BEE848F1}|MicroHome.ApiGateway\\MicroHome.ApiGateway.csproj|solutionrelative:microhome.apigateway\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66704265-7B75-4FA3-8103-C0EA8DE7FB7E}|MicroHome.Pedidos.API\\MicroHome.Pedidos.API.csproj|c:\\users\\danielli\\source\\repos\\micro-home\\microhome\\microhome.pedidos.api\\microhome.pedidos.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{66704265-7B75-4FA3-8103-C0EA8DE7FB7E}|MicroHome.Pedidos.API\\MicroHome.Pedidos.API.csproj|solutionrelative:microhome.pedidos.api\\microhome.pedidos.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{264DCC11-2678-4711-8323-34D7BEE848F1}|MicroHome.ApiGateway\\MicroHome.ApiGateway.csproj|c:\\users\\danielli\\source\\repos\\micro-home\\microhome\\microhome.apigateway\\microhome.apigateway.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{264DCC11-2678-4711-8323-34D7BEE848F1}|MicroHome.ApiGateway\\MicroHome.ApiGateway.csproj|solutionrelative:microhome.apigateway\\microhome.apigateway.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{264DCC11-2678-4711-8323-34D7BEE848F1}|MicroHome.ApiGateway\\MicroHome.ApiGateway.csproj|c:\\users\\danielli\\source\\repos\\micro-home\\microhome\\microhome.apigateway\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{264DCC11-2678-4711-8323-34D7BEE848F1}|MicroHome.ApiGateway\\MicroHome.ApiGateway.csproj|solutionrelative:microhome.apigateway\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E7926C0-63A9-4AEF-8661-D62100B92484}|MicroHome.Catalogo.API\\MicroHome.Catalogo.API.csproj|c:\\users\\danielli\\source\\repos\\micro-home\\microhome\\microhome.catalogo.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{3E7926C0-63A9-4AEF-8661-D62100B92484}|MicroHome.Catalogo.API\\MicroHome.Catalogo.API.csproj|solutionrelative:microhome.catalogo.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E7926C0-63A9-4AEF-8661-D62100B92484}|MicroHome.Catalogo.API\\MicroHome.Catalogo.API.csproj|c:\\users\\danielli\\source\\repos\\micro-home\\microhome\\microhome.catalogo.api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E7926C0-63A9-4AEF-8661-D62100B92484}|MicroHome.Catalogo.API\\MicroHome.Catalogo.API.csproj|solutionrelative:microhome.catalogo.api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74D9C9B4-9DF4-4B55-B3AF-6CD301AB3FB3}|MicroHome.Shared\\MicroHome.Shared.csproj|c:\\users\\danielli\\source\\repos\\micro-home\\microhome\\microhome.shared\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74D9C9B4-9DF4-4B55-B3AF-6CD301AB3FB3}|MicroHome.Shared\\MicroHome.Shared.csproj|solutionrelative:microhome.shared\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".dockerignore",
+              "DocumentMoniker": "C:\\Users\\Danielli\\source\\repos\\Micro-Home\\MicroHome\\.dockerignore",
+              "RelativeDocumentMoniker": ".dockerignore",
+              "ToolTip": "C:\\Users\\Danielli\\source\\repos\\Micro-Home\\MicroHome\\.dockerignore",
+              "RelativeToolTip": ".dockerignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-12-17T15:15:59.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Danielli\\source\\repos\\Micro-Home\\MicroHome\\MicroHome.Pedidos.API\\appsettings.json",
+              "RelativeDocumentMoniker": "MicroHome.Pedidos.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\Danielli\\source\\repos\\Micro-Home\\MicroHome\\MicroHome.Pedidos.API\\appsettings.json",
+              "RelativeToolTip": "MicroHome.Pedidos.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-17T15:00:02.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Danielli\\source\\repos\\Micro-Home\\MicroHome\\MicroHome.ApiGateway\\appsettings.json",
+              "RelativeDocumentMoniker": "MicroHome.ApiGateway\\appsettings.json",
+              "ToolTip": "C:\\Users\\Danielli\\source\\repos\\Micro-Home\\MicroHome\\MicroHome.ApiGateway\\appsettings.json",
+              "RelativeToolTip": "MicroHome.ApiGateway\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-17T14:59:01.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\Users\\Danielli\\source\\repos\\Micro-Home\\MicroHome\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "C:\\Users\\Danielli\\source\\repos\\Micro-Home\\MicroHome\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAACYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-12-17T14:26:53.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MicroHome.Pedidos.API",
+              "DocumentMoniker": "C:\\Users\\Danielli\\source\\repos\\Micro-Home\\MicroHome\\MicroHome.Pedidos.API\\MicroHome.Pedidos.API.csproj",
+              "RelativeDocumentMoniker": "MicroHome.Pedidos.API\\MicroHome.Pedidos.API.csproj",
+              "ToolTip": "C:\\Users\\Danielli\\source\\repos\\Micro-Home\\MicroHome\\MicroHome.Pedidos.API\\MicroHome.Pedidos.API.csproj",
+              "RelativeToolTip": "MicroHome.Pedidos.API\\MicroHome.Pedidos.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-17T14:26:38.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MicroHome.ApiGateway",
+              "DocumentMoniker": "C:\\Users\\Danielli\\source\\repos\\Micro-Home\\MicroHome\\MicroHome.ApiGateway\\MicroHome.ApiGateway.csproj",
+              "RelativeDocumentMoniker": "MicroHome.ApiGateway\\MicroHome.ApiGateway.csproj",
+              "ToolTip": "C:\\Users\\Danielli\\source\\repos\\Micro-Home\\MicroHome\\MicroHome.ApiGateway\\MicroHome.ApiGateway.csproj",
+              "RelativeToolTip": "MicroHome.ApiGateway\\MicroHome.ApiGateway.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-17T14:26:22.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\Danielli\\source\\repos\\Micro-Home\\MicroHome\\MicroHome.ApiGateway\\Dockerfile",
+              "RelativeDocumentMoniker": "MicroHome.ApiGateway\\Dockerfile",
+              "ToolTip": "C:\\Users\\Danielli\\source\\repos\\Micro-Home\\MicroHome\\MicroHome.ApiGateway\\Dockerfile",
+              "RelativeToolTip": "MicroHome.ApiGateway\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-12-17T14:19:18.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Danielli\\source\\repos\\Micro-Home\\MicroHome\\MicroHome.Catalogo.API\\appsettings.json",
+              "RelativeDocumentMoniker": "MicroHome.Catalogo.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\Danielli\\source\\repos\\Micro-Home\\MicroHome\\MicroHome.Catalogo.API\\appsettings.json",
+              "RelativeToolTip": "MicroHome.Catalogo.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-17T13:53:07.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\Danielli\\source\\repos\\Micro-Home\\MicroHome\\MicroHome.Catalogo.API\\Dockerfile",
+              "RelativeDocumentMoniker": "MicroHome.Catalogo.API\\Dockerfile",
+              "ToolTip": "C:\\Users\\Danielli\\source\\repos\\Micro-Home\\MicroHome\\MicroHome.Catalogo.API\\Dockerfile",
+              "RelativeToolTip": "MicroHome.Catalogo.API\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-12-17T13:53:07.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\Danielli\\source\\repos\\Micro-Home\\MicroHome\\MicroHome.Catalogo.API\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "MicroHome.Catalogo.API\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\Danielli\\source\\repos\\Micro-Home\\MicroHome\\MicroHome.Catalogo.API\\WeatherForecast.cs",
+              "RelativeToolTip": "MicroHome.Catalogo.API\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T13:53:02.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Danielli\\source\\repos\\Micro-Home\\MicroHome\\MicroHome.Shared\\Class1.cs",
+              "RelativeDocumentMoniker": "MicroHome.Shared\\Class1.cs",
+              "ToolTip": "C:\\Users\\Danielli\\source\\repos\\Micro-Home\\MicroHome\\MicroHome.Shared\\Class1.cs",
+              "RelativeToolTip": "MicroHome.Shared\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T13:51:30.749Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
