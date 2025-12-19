@@ -1,4 +1,4 @@
-namespace MicroHome.Pedidos.API
+namespace MicroHome.Pedido.API
 {
     public class WeatherForecast
     {

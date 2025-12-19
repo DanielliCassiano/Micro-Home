@@ -1,6 +1,7 @@
+using MicroHome.Pedido.API;
 using Microsoft.AspNetCore.Mvc;
 
-namespace MicroHome.Pedidos.API.Controllers
+namespace MicroHome.Pedido.API.Controllers
 {
     [ApiController]
     [Route("[controller]")]
