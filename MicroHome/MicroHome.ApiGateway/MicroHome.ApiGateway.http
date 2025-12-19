@@ -1,0 +1,6 @@
+@MicroHome.ApiGateway_HostAddress = http://localhost:5115
+
+GET {{MicroHome.ApiGateway_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
