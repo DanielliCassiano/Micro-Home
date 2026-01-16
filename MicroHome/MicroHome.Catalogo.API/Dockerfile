@@ -13,6 +13,7 @@ FROM mcr.microsoft.com/dotnet/sdk:9.0 AS build
 ARG BUILD_CONFIGURATION=Release
 WORKDIR /src
 COPY ["MicroHome.Catalogo.API/MicroHome.Catalogo.API.csproj", "MicroHome.Catalogo.API/"]
+COPY ["MicroHome.Shared/MicroHome.Shared.csproj", "MicroHome.Shared/"]
 RUN dotnet restore "./MicroHome.Catalogo.API/MicroHome.Catalogo.API.csproj"
 COPY . .
 WORKDIR "/src/MicroHome.Catalogo.API"

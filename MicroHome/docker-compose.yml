@@ -8,7 +8,7 @@ services:
   microhome.catalogo.api:
     image: ${DOCKER_REGISTRY-}microhomecatalogoapi
     environment:
-      - ConnectionStrings__DefaultConnection=Server=192.168.0.30;Database=MicroHomeDB;User Id=sa;Password=papKe560#;TrustServerCertificate=True;
+      - ConnectionStrings__DefaultConnection=Server=host.docker.internal,1433;Database=MicroHomeDB;User Id=sa;Password=papKe560;TrustServerCertificate=True;
     build:
       context: .
       dockerfile: MicroHome.Catalogo.API/Dockerfile
@@ -17,7 +17,7 @@ services:
   microhome.pedidos.api:
     image: ${DOCKER_REGISTRY-}microhomepedidosapi
     environment:
-      - ConnectionStrings__DefaultConnection=Server=192.168.0.30;Database=MicroHomeDB;User Id=sa;Password=papKe560#;TrustServerCertificate=True;
+      - ConnectionStrings__DefaultConnection=Server=host.docker.internal,1433;Database=MicroHomeDB;User Id=sa;Password=papKe560;TrustServerCertificate=True;
     build:
       context: .
       dockerfile: MicroHome.Pedidos.API/Dockerfile

@@ -5,7 +5,7 @@ using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
 
-builder.Services.AddControllers();
+//builder.Services.AddControllers();
 builder.Services.AddOpenApi();
 builder.Services.AddDbContext<PedidoDbContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
@@ -19,9 +19,9 @@ if (app.Environment.IsDevelopment())
 
 app.UseHttpsRedirection();
 
-app.UseAuthorization();
+//app.UseAuthorization();
 
-app.MapControllers();
+//app.MapControllers();
 
 
 using (var scope = app.Services.CreateScope())
@@ -41,5 +41,7 @@ using (var scope = app.Services.CreateScope())
         context.SaveChanges();
     }
 }
+
+
 
 app.Run();

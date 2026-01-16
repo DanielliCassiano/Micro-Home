@@ -1,26 +1,36 @@
 using MicroHome.Catalogo.API.Data;
 using MicroHome.Catalogo.API.Model;
 using Microsoft.EntityFrameworkCore;
+using FastEndpoints;
+using FastEndpoints.Swagger;
 
 var builder = WebApplication.CreateBuilder(args);
 
-builder.Services.AddControllers();
+
 builder.Services.AddOpenApi();
 builder.Services.AddDbContext<CatalogoDbContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+builder.Services.AddFastEndpoints();
+builder.Services.SwaggerDocument(doc =>
+{
+    doc.DocumentSettings = docSet =>
+    {
+        docSet.Title = "MicroHome.Catalogo.API";
+        docSet.Version = "V1";
+    };
+});
 
 var app = builder.Build();
+
+app.UseHttpsRedirection();
+app.UseFastEndpoints();
 
 if (app.Environment.IsDevelopment())
 {
     app.MapOpenApi();
+    app.UseSwaggerGen();
 }
 
-app.UseHttpsRedirection();
-
-app.UseAuthorization();
-
-app.MapControllers();
 
 using (var scope = app.Services.CreateScope())
 {
